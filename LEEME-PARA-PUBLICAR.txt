@@ -1,0 +1,28 @@
+PÁGINA DE ARIANA GRANDE PARA ALI
+================================
+
+Este paquete ya está compilado y preparado para GitHub Pages.
+No necesitas instalar programas ni ejecutar comandos.
+
+PASOS
+
+1. Descomprime el archivo ZIP.
+2. Abre tu repositorio "alii-eternal-sunshine".
+3. Copia TODOS los archivos y carpetas que están dentro del ZIP a la raíz
+   del repositorio. El archivo index.html debe quedar visible en la raíz.
+4. Confirma los cambios y súbelos a la rama main.
+5. En GitHub entra a:
+   Settings > Pages
+6. En "Build and deployment" selecciona:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+7. Presiona Save y espera unos minutos.
+
+IMPORTANTE
+
+- No subas solamente el archivo ZIP: primero debes descomprimirlo.
+- Conserva las carpetas assets, ariana y covers.
+- El sonido empieza después del primer toque porque los navegadores bloquean
+  la reproducción automática antes de que la persona interactúe con la página.
+
